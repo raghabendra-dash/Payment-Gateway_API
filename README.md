@@ -1,7 +1,7 @@
 ## PhonePe-Gateway-System
 
   
-  In today's digital world online payments are at the heart of digital commerce. It provides a secure and efficient payment system which is essential for maintaining trust and ensuring smooth business operations. The project demonstrates the integration of a payment gateway using Node.js, Express and MongoDB. The system allows the creation of payment orders and verification of payments.
+  In today's digital world online payments are at the heart of digital commerce. It provides a secure and efficient payment system which is essential for maintaining trust and ensuring smooth business operations. The project demonstrates the integration of a payment gateway using Node.js, Express, and MongoDB. The system allows the creation of payment orders and verification of payments.
 
 
 ### Features :
