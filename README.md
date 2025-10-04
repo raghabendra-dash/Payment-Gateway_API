@@ -7,8 +7,12 @@
 ### Features :
 
   This payment gateway system offers a secure and reliable solution for handling online transactions, ensuring that payments are processed with high-level encryption and fraud prevention through signature verification. This API-based system can be easily integrated with any frontend technology. It ensures a smooth checkout experience with order creation and payment verification.
+  
+---
+## Live Documentation
+[Notion Docs-Click](https://payment-integration.notion.site/282cfd66164b804589b0c1d1b46d3438?v=282cfd66164b8030a00b000c4da9324a&pvs=143)
 
-
+---
 ### Dependencies :
 
  - Node.js
